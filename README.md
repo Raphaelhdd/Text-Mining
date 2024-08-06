@@ -14,9 +14,7 @@ This repository contains solutions to a text mining exercise involving tokenizat
   - [Task 4f: POS Tagging Mistake](#task-4f-pos-tagging-mistake)
   - [Task 4g: Proper Nouns Tag Cloud](#task-4g-proper-nouns-tag-cloud)
   - [Task 4h: Regex for Repeated Words](#task-4h-regex-for-repeated-words)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
